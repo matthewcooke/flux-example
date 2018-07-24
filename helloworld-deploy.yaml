@@ -15,7 +15,7 @@ spec:
       - name: helloworld
         image: quay.io/weaveworks/helloworld:master-07a1b6b
         args:
-        - -msg=https://github.com/matthewcooke/flux-example/blob/master/helloworld-deploy.yaml
+        - -msg=hellow world
         ports:
         - containerPort: 80
       - name: sidecar
