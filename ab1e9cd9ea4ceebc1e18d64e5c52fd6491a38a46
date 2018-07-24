@@ -1,0 +1,1 @@
+{"jobID":"e8ce2d5e-b7cc-74fb-9b66-90cbc4e490d9","spec":{"type":"policy","cause":{"Message":"","User":"matt.cooke \u003cmatt.cooke@thinkbiganalytics.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":null}}},"result":null}
